@@ -1,0 +1,57 @@
+{
+  "categories": [
+    { "id": "1", "name": "Frontend" },
+    { "id": "2", "name": "Backend" }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "[Angular] Router và những ứng dụng của nó (P1)",
+      "summary": "Router là một module quan trọng trong angular, chúng ta hãy tìm hiểu cơ chế của router trong bài viết này nhé",
+      "content": "Router là một module quan trọng trong Angular giúp bạn quản lý việc điều hướng giữa các component khác nhau trong ứng dụng web một trang (SPA). Nó cho phép bạn định nghĩa các route, xác định các component tương ứng cho mỗi route, và cung cấp các API để điều hướng giữa các route đó.",
+      "createdAt": 1719975197,
+      "updatedAt": 1819975500,
+      "createdBy": "admin",
+      "updatedBy": "admin",
+      "tags": "angular, router",
+      "categoryIds": ["1"],
+      "thumbnail": "https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp"
+    },
+    {
+      "id": "2",
+      "title": "[Angular] Tất tần tật về RXJS (P1)",
+      "summary": "Rxjs là một module quan trọng trong angular, chúng ta hãy tìm hiểu cơ chế của rxjs trong bài viết này nhé",
+      "createdAt": 1719975197,
+      "updatedAt": 1819975500,
+      "createdBy": "admin",
+      "updatedBy": "admin",
+      "tags": "angular, rxjs",
+      "categoryIds": ["1"],
+      "thumbnail": "https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp"
+    },
+    {
+      "id": "3",
+      "title": "[Angular] Tất tần tật về Dependence Injection (P1)",
+      "summary": "Dependence Injection là một module quan trọng trong angular, chúng ta hãy tìm hiểu cơ chế của Dependence Injection trong bài viết này nhé",
+      "createdAt": 1719975197,
+      "updatedAt": 1819975500,
+      "createdBy": "admin",
+      "updatedBy": "admin",
+      "tags": "angular, dependence injection",
+      "categoryIds": ["1"],
+      "thumbnail": "https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp"
+    },
+    {
+      "id": "4",
+      "name": "[Angular] Tất tần tật về Pipe (P1)",
+      "summary": "Pipe là một module quan trọng trong angular, chúng ta hãy tìm hiểu cơ chế của Pipe trong bài viết này nhé",
+      "createdAt": 1719975197,
+      "updatedAt": 1819975500,
+      "createdBy": "admin",
+      "updatedBy": "admin",
+      "tags": "angular, pipe",
+      "categoryIds": ["1"],
+      "thumbnail": "https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp"
+    }
+  ]
+}
